@@ -56,7 +56,7 @@ Post.scss로 적용한 **Post 스타일**은 다음의 특징을 갖고 있습�
 
 ## 더알아보기
 
-[Post.scss 문법](/docs/syntax.md)
+[Post.scss 문법](docs/syntax.md)
 
 ## Copyright
 
