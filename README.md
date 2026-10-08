@@ -54,6 +54,10 @@ Post.scss로 적용한 **Post 스타일**은 다음의 특징을 갖고 있습�
 
 `post--disable` 클래스가 부여된 요소의 하위 요소 또한 Post 스타일이 비활성화됩니다.
 
+## 더알아보기
+
+[Post.scss 문법](/docs/syntax.md)
+
 ## Copyright
 
 Copyright © 2026 Dopamintic. All rights reserved.
